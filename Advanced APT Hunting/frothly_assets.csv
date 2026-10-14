@@ -1,0 +1,54 @@
+bunit,category,city,country,dns,ip,"is_expected",lat,long,mac,"nt_host",owner,"pci_domain",priority,"requires_av","should_timesync","should_update"
+it,linux,"san francisco",us,jupiter,"10.1.1.20",TRUE,,,,,,untrust,high,,,
+frothly,"windows workstation","san francisco",us,"aturing-l.froth.ly",,,,,,"aturing-l","amber turing",untrust,low,TRUE,,TRUE
+frothly,"windows workstation","san francisco",us,"mvalitus-l.froth.ly",,,,,,"mvalitus-l","mateo valitus",untrust,low,TRUE,,TRUE
+thirstyberner,"windows server ad","san francisco",us,"labrador.froth.ly","192.168.70.150",TRUE,,,,labrador,"peat cerf",untrust,high,,TRUE,
+marketing,"aws linux web",,,"gacrux.i-0cc93bade2b3cba63",,,,,,,,untrust,,,,
+marketing,"aws elb web",,,"www.brewertalk.com","52.8.107.62",,,,,,,untrust,,,,
+it,"aws linux splunk","san francisco",us,cassiopeia,"52.10.218.54",TRUE,,,"0a:18:9a:3b:f1:65",cassiopeia,"bud stoll",untrust,medium,,TRUE,TRUE
+it,"aws linux","san francisco",us,matar,"172.31.38.181",TRUE,,,"06:6a:51:fa:0a:b0",matar,"bud stoll",untrust,medium,,TRUE,TRUE
+frothly,"windows workstation","san francisco",us,"pcerf-l.froth.ly",,,,,,"pcerf-l","peat cerf",untrust,low,TRUE,,TRUE
+frothly,"windows workstation","san francisco",us,"abungstein-l.froth.ly",,,,,,"abungstein-l","al bungstein",untrust,low,TRUE,,TRUE
+frothly,"windows workstation","san francisco",us,"fyodor-l.froth.ly",,,,,,"fyodor-l","fyodor malteskesko",untrust,low,TRUE,,TRUE
+frothly,"windows workstation","san francisco",us,"mkraeusen-l.froth.ly",,,,,,"mkraeusen-l","mallory kraeusen",untrust,low,TRUE,,TRUE
+frothly,"windows workstation","san francisco",us,"jwortoski-l.froth.ly",,,,,,"jwortoski-l","jeremiah wortoski",untrust,low,TRUE,,TRUE
+frothly,"windows workstation","san francisco",us,"ghoppy-l.froth.ly",,,,,,"ghoppy-l","grace hoppy",untrust,low,TRUE,,TRUE
+frothly,"windows workstation","san francisco",us,"bstoll-l.froth.ly",,,,,,"bstoll-l","bud stoll",untrust,low,TRUE,,TRUE
+frothly,"windows workstation","san francisco",us,"btun-l.froth.ly",,,,,,"btun-l","billy tun",untrust,low,TRUE,,TRUE
+frothly,"windows workstation","san francisco",us,"agrady-l.froth.ly",,,,,,"agrady-l","audrey grady",untrust,low,TRUE,,TRUE
+frothly,"windows workstation","san francisco",us,"ktanninsky-l.froth.ly",,,,,,"ktanninsky-l","Kate Tanninsky",untrust,low,TRUE,,TRUE
+frothly,"windows workstation","san francisco",us,"rschlitzer-l.froth.ly",,,,,,"rschlitzer-l","Richard Schlitzer",untrust,low,TRUE,,TRUE
+thirstyberner,lab,"san francisco",us,,"192.168.70.0/24",,,,,,pcerf,untrust,medium,TRUE,,TRUE
+it,linux,,,hoth,"192.168.9.30",TRUE,,,,hoth,"bud stoll",untrust,high,,TRUE,
+it,"asa firewall",,,"frothly-fw1","192.168.9.1",TRUE,,,,"frothly-fw1","bud stoll",untrust,high,,TRUE,TRUE
+it,"aws brewertalk linux mysql web","san francisco",us,gacrux,"172.31.4.249 52.42.208.228",TRUE,,,"0a:42:7e:25:21:b4",gacrux,"bud stoll",untrust,medium,,TRUE,TRUE
+marketing,"aws linux web","san francisco",us,eridanus,"54.71.236.238",TRUE,,,"0a:5d:a3:e3:b9:92",eridanus,"al bungstein",untrust,,,TRUE,TRUE
+ecomm,"aws linux magento mysql","san francisco",us,altair,"35.166.192.148",TRUE,,,"0a:9a:63:61:16:06",altair,"jeremiah wortoski",untrust,,,TRUE,TRUE
+ecomm,"aws linux magento web","san francisco",us,jabbah,"52.34.175.192",TRUE,,,"0a:9a:5f:b2:20:aa",jabbah,"jeremiah wortoski",untrust,,,TRUE,TRUE
+it,"firewall fortinet","san francisco",us,,"10.1.1.1",TRUE,,,,,,untrust,,,,
+thirstyberner,"ics jumpserver windows workstation","san francisco",us,"portal.thirstyberner.com","10.1.4.99",TRUE,,,"e5:00:00:0a:55:37",portal,"mateo valitus",untrust,high,TRUE,,
+,"windows workstation",,,,"192.168.8.0/24",,,,,,,untrust,low,,,
+thirstyberner,"ot_network server windows workstation",,,,"192.168.2.201",,,,"00:50:56:3e:82:39",pcworx,,untrust,high,,,
+thirstyberner,"ot_network",,,,"192.168.2.225",,,,"00:0c:29:eb:97:d4",,,untrust,high,,,
+thirstyberner,"ot_network server workstation",,,,"192.168.2.223",,,,"ac:87:a3:13:b4:49",,,untrust,high,,,
+thirstyberner,"ot_network rdp_jumphost server windows workstation",,,,"192.168.2.200",,,,"00:0c:29:e8:22:4c",scada2,,untrust,high,,,
+thirstyberner,"nmapscanner ot_network rdp_jumphost windows",,,,"192.168.2.193",,,,,,,untrust,high,,,
+thirstyberner,"ot_network rdp_jumphost",,,,"192.168.2.222",,,,"b6:c3:97:fe:24:4e",,,untrust,high,,,
+thirstyberner,"ot_network server workstation",,,,"192.168.2.151",,,,"00:0c:29:fb:1e:45","dtm_slave-pc",,untrust,high,,,
+thirstyberner,"ot_network",,,,"192.168.2.211",,,,"00:0c:29:22:ec:df",,,untrust,high,,,
+thirstyberner,"ot_network",,,,"192.168.2.205",,,,"1c:69:7a:00:34:93",,,untrust,high,,,
+thirstyberner,"ot_network",,,,"192.168.2.1",,,,"00:a0:45:7c:8e:3c",,,untrust,high,,,
+thirstyberner,"ot_network",,,,"192.168.1.250",,,,"00:0c:29:7a:1a:0a",,,untrust,high,,,
+thirstyberner,"ot_network",,,,"192.168.1.198",,,,"00:50:b6:29:04:eb",,,untrust,high,,,
+thirstyberner,"ics iec104 field device iec104 master ot_network",,,,"192.168.1.197",,,,"00:80:f4:1c:ef:c5",,,untrust,high,,,
+thirstyberner,"ot_network",,,,"192.168.1.193 192.168.2.47",,,,"00:e0:4c:68:01:f8",,,untrust,high,,,
+thirstyberner,"ot_network server workstation",,,,"192.168.2.202",,,,"00:0c:29:4c:dc:ca","siemens_tia_por",,untrust,high,,,
+thirstyberner,"ics ot_network rdp_jumphost server windows workstation",,,,"192.168.1.17",,,,"00:0c:29:ba:5d:36",unitypro,,untrust,high,,,
+thirstyberner,"ics ot_network rdp_jumphost server windows workstation",,,,"192.168.1.16",,,,"00:0c:29:3d:b3:b2",vijeo,,untrust,high,,,
+thirstyberner,"ot_network",,,,"192.168.1.15",,,,"00:01:23:56:4c:0f",,,untrust,high,,,
+thirstyberner,"ot_network rdp_jumphost server windows workstation",,,,"192.168.1.121",,,,"00:0c:29:0f:cc:82","desktop-4ommuqm",,untrust,high,,,
+thirstyberner,"ot_network",,,,"192.168.255.194",,,,"00:0c:29:4e:8e:26",,,untrust,high,,,
+thirstyberner,"ot_network",,,,"192.168.255.1",,,,"d0:94:66:5a:30:0f",,,untrust,high,,,
+thirstyberner,"ics ot_network server webserver workstation",,,,"192.168.255.113",,,,"00:50:b6:24:07:7e",rangenuc,,untrust,high,,,
+thirstyberner,"ot_network",,,,"192.168.2.226",,,,"00:30:a7:1c:e3:71",,,untrust,high,,,
+thirstyberner,"ot_network",,,,"192.168.1.18",,,,"00:0c:29:63:20:c5",brewerynuc,,untrust,high,,,

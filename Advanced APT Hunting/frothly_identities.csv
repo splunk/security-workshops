@@ -1,0 +1,112 @@
+bunit,category,email,endDate,first,identity,last,managedBy,nick,phone,prefix,priority,startDate,suffix,watchlist,"work_city","work_country","work_lat","work_long"
+americas,marketing,"abungstein@froth.ly",,al,"abungstein
+frothly\al.bungstein
+abungstein@froth.ly
+AzureAD\AlBungstein",bungstein,ghoppy,,"+1 (415)488-6795","mr.",low,"12/12/04 17:31",,,"san jose",usa,"37.3382n","121.8863w"
+americas,,"agrady@froth.ly",,audrey,"agrady
+frothly\agrady
+agrady@froth.ly
+audrey
+AzureAD\AudreyGrady",grady,,,,,medium,"7/26/19 15:00",,,"san francisco",usa,"37.78n","122.41w"
+americas,,"aturing@froth.ly",,amber,"aturing
+amber.turing
+frothly\amber.turing
+aturing@froth.ly
+AzureAD\AmberTuring",turing,,,,"ms.",high,"7/12/03 15:30",,TRUE,"san francisco",usa,"37.78n","122.41w"
+americas,,"bgist@froth.ly","8/24/18 4:00",bruce,"bgist
+bruce.gist
+frothly\bruce.gist
+bgist@froth.ly
+brucegist
+AzureAD\BruceGist",gist,ghoppy,,"+1 (800)555-7596","mr.",,"2/13/77 23:14",,,"san francisco",usa,"37.78n","122.41w"
+americas,finance,"btun@froth.ly",,billy,"btun
+billy.tun
+frothly\billy.tun
+btun@froth.ly
+billytun
+AzureAD\BillyTun",tun,ghoppy,,"+1 (415)848-8400","mr.",medium,"3/13/74 6:31",,,"san jose",usa,"37.3382n","121.8863w"
+americas,,"ecaramelizki@froth.ly","7/12/08 19:49",erin,"ecaramelizki
+erin.caramelizki
+frothly\erin.caramelizki
+ecaramelizki@froth.ly",caramelizki,,,"+1 (800)555-1053","ms.",,,,,"san francisco",usa,"37.78n","122.41w"
+americas,,"edextini@froth.ly","7/12/08 19:49",eve,"edextini
+eve.dextini
+frothly\eve.dextini
+edextini@froth.ly",dextini,,,"+1 (800)555-1054","ms.",,,,,"san francisco",usa,"37.78n","122.41w"
+americas,,"finfucious@froth.ly","7/12/08 19:49",frank,"finfucious
+frank.infucious
+frothly\frank.infucious
+finfucious@froth.ly",infucious,,,"+1 (800)555-1055","mr.",,,,,"san francisco",usa,"37.78n","122.41w"
+it,"technical
+privileged","bstoll@froth.ly",,bud,"froth.ly\budstoll
+bstoll@froth.ly
+budstoll
+bstoll
+AzureAD\BudStoll",stoll,fyodor,,"+1 (800)555-8072","mr.",critical,,,TRUE,"san jose",usa,"37.3382n","121.8863w"
+americas,technical,"pcerf@froth.ly",,peat,"frothly\pcerf
+pcerf@froth.ly
+peatcerf
+pcerf
+AzureAD\PeatCerf",cerf,fyodor,,"+1 (800)555-2111","mr.",high,,,,"san jose",usa,"37.3382n","121.8863w"
+it,,"frothly_helpdesk@thirstyberner.com",,frothly,"frothly_helpdesk
+frothly\frothly_helpdesk
+frothly_helpdesk@froth.ly",helpdesk,,,,,critical,,,TRUE,,,,
+americas,"technical
+privileged","fyodor@froth.ly",,fyodor,"fyodor
+fyodor.malteskesko
+frothly\fyodor
+fyodor@froth.ly
+fyodormalteskesko
+AzureAD\FyodorMalteskesko",malteskesko,ghoppy,,"+1 (800)555-8762","mr.",critical,"9/15/96 1:55",,,"san jose",usa,"37.3382n","121.8863w"
+americas,ceo,"ghoppy@froth.ly",,grace,"ghoppy
+grace.hoppy
+frothly\grace.hoppy
+ghoppy@froth.ly
+AzureAD\GraceHoppy",hoppy,,,"+1 (800)555-1562","ms.",critical,"5/1/03 0:17",,,"san jose",usa,"37.3382n","121.8863w"
+americas,,"hmustofo@froth.ly","7/12/08 19:49",heidi,"hmustofo
+heidi.mustofo
+frothly\heidi.mustofo
+hmustofo@froth.ly",mustofo,,,"+1 (800)555-1056","ms.",,,,,"san francisco",usa,"37.78n","122.41w"
+it,,"jacobsmythe111@gmail.com","7/12/08 19:49",jacob,"jacobsmythe111
+jacobsmythe111@gmail.com",smythe,,,"+1 (800)555-1052","mr.",high,"5/12/88 19:55",,TRUE,"san francisco",usa,"37.78n","122.41w"
+americas,"pci
+sales","jwortoski@froth.ly",,jeremiah,"jwortoski
+jeremiah.wortoski
+frothly\jeremiah.wortoski
+jwortoski@froth.ly
+jeremiahwortoski
+AzureAD\JeremiahWortoski",wortoski,ghoppy,,"+1 (800)555-5501","mr.",medium,"8/29/99 2:51",,,"san jose",usa,"37.3382n","121.8863w"
+americas,,"klagerfield@froth.ly","8/17/17 23:00",kevin,"klagerfield
+klager
+kevin.lagerfield
+frothly\kevin.lagerfield
+klagerfield@froth.ly
+AzureAD\KevinLagerfield",lagerfield,,,,"mr.",critical,"10/28/83 0:27",,,"san francisco",usa,"37.78n","122.41w"
+americas,,"ktanninsky@froth.ly",,Kate,"ktanninsky
+frothly\ktanninsky
+ktanninsky@froth.ly
+kate.tanninsky
+AzureAD\KateTanninsky",Tanninsky,,,"+1 (800)555-1099","ms.",high,,,,"san francisco",usa,"37.78n","122.41w"
+americas,"marketing
+privileged","mkraeusen@froth.ly",,mallory,"mkraeusen
+frothly\mkraeusen
+mkraeusen@froth.ly
+mkrausen
+AzureAD\MalloryKraeusen",kraeusen,abungstein,,"+1 (415)867-5309","ms.",medium,"7/31/17 15:00",,,"san francisco",usa,"37.78n","122.41w"
+americas,,"mvalitus@froth.ly",,mateo,"mvalitus
+frothly\mvalitus
+mvalitus@froth.ly
+mateo
+AzureAD\MateoValitus",valitus,,,"+1 (720)630-6969","mr.",medium,"7/26/19 15:00",,,"san francisco",usa,"37.78n","122.41w"
+americas,,"opublicanson@froth.ly","7/12/08 19:49",oscar,"opublicanson
+oscar.publicanson
+frothly\oscar.publicanson
+opublicanson@froth.ly",publicanson,,,"+1 (800)555-1057","mr.",,,,,"san francisco",usa,"37.78n","122.41w"
+americas,,"rschlitzer@froth.ly",,Richard,"rschlitzer
+frothly\rschlitzer
+rschlitzer@froth.ly
+richard.schlitzer
+AzureAD\RichardSchlitzer",Schlitzer,,,"+1 (800)555-1089","mr.",medium,,,,"san francisco",usa,"37.78n","122.41w"
+americas,system,,,service,"service3
+frothly\service3
+service3@froth.ly",account,,,,,critical,,,TRUE,,,,
