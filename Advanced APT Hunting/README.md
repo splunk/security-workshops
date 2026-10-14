@@ -49,7 +49,7 @@ An adversary may use Windows Scheduled Tasks to establish persistence or perform
 ### Starting Search
 
 ```spl
-source="WinEventLog:Microsoft-Windows-Sysmon/Operational" EventCode=1 process_exec=schtasks.exe
+index=aapt source="WinEventLog:Microsoft-Windows-Sysmon/Operational" EventCode=1 process_exec=schtasks.exe
 | stats dc(host) values(host) values(user) count by CommandLine ParentCommandLine
 | sort - count
 
