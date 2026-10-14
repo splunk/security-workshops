@@ -92,7 +92,7 @@ Use the hosts and users identified in **Exercise 1**.
   *Hint:* Compare expectations for servers versus user workstations.
 * What IP address is assigned to the host?
   *Hint:* You may reuse this information when pivoting to network data later.
-* When did the associated users last complete security awareness training?
+* What city and country are each user associated with?
   *Hint:* Context does not prove intent, but it informs risk.
 
 ---
